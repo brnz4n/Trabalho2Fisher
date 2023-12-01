@@ -1,0 +1,7 @@
+555989 - Pablo, C#, C, 1, 4, 1000, Python: 3,59 - JavaScript: 2,50 - Ruby On Rails: 1,63 - PHP: 1,48 - C#: 0,64 - C++: 1,62 - C: 9,26, 285741, 299695, 5665751, 998869
+555989 - Pablo, C#, C, 1, 4, 1000, Python: 3,59 - JavaScript: 2,50 - Ruby On Rails: 1,63 - PHP: 1,48 - C#: 0,64 - C++: 1,62 - C: 9,26, 285741, 299695, 5665751, 998869
+555989 - Pablo, C#, C, 1, 1, 204977, Python: 3,38 - JavaScript: 1,85 - Ruby On Rails: 1,01 - PHP: 1,18 - C#: 0,45 - C++: 1,17 - C: 6,48, 71294703, 73116375, 234106489, 587967557
+554397 - José Vanderlei Furtuna Tomé, C#, C, 1, 1, 204990, Python: 3,38 - JavaScript: 1,85 - Ruby On Rails: 1,01 - PHP: 1,18 - C#: 0,45 - C++: 1,17 - C: 6,48, 71294769, 73116453, 234329247, 587969184
+555989 - Pablo, C#, C, 1, 1, 205004, Python: 3,38 - JavaScript: 1,85 - Ruby On Rails: 1,01 - PHP: 1,18 - C#: 0,45 - C++: 1,17 - C: 6,48, 71294809, 73116501, 234339022, 587969511
+554397 - José Vanderlei Furtuna Tomé, C#, C, 1, 1, 205005, Python: 3,38 - JavaScript: 1,85 - Ruby On Rails: 1,01 - PHP: 1,18 - C#: 0,45 - C++: 1,17 - C: 6,48, 71294809, 73116501, 234340452, 587969519
+554397 - José Vanderlei Furtuna Tomé, C#, C, 1, 1, 205005, Python: 3,38 - JavaScript: 1,85 - Ruby On Rails: 1,01 - PHP: 1,18 - C#: 0,45 - C++: 1,17 - C: 6,48, 71294809, 73116501, 234340452, 587969519
